@@ -82,4 +82,4 @@ async def on_message(message):
                         break
 
 
-client.run('ODM2MjE3NjUyNzQ5OTI2NDMw.YIayYA.Wm3CIq5-MEZcetLpKKpOo2Zrytw')
+#client.run('PUT BOT TOKEN IN HERE')
